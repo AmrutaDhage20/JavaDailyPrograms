@@ -1,6 +1,4 @@
-Write a Java Program to Get the Size of Collection and
-Verify that Collection is Empty using ArrayList class.
+Write a Java Program to find the target element using Linear Search.
 
 Output:
-Size of the collection 3
-Is the ArrayList empty: false
+Element found at index 3
