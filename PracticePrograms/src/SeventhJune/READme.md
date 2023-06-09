@@ -1,6 +1,9 @@
-Java Program to Format Time in AM-PM format
-(Or to convert 24hour time format to 12hour format)
+Write a Java Program to transpose the matrix.
+1 2 3
+4 5 6
+7 8 9
 
 Output:
-Current Time is : Thu Jun 08 14:57:18 IST 2023
-Current Time in AM/PM Format is : 02.57 PM
+1 4 7
+2 5 8
+3 6 9 
