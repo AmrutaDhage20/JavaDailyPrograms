@@ -1,4 +1,3 @@
-Write a Java Program to find the target element using Linear Search.
+Write a code to find circular rotation of an array by K positions.
 
-Output:
-Element found at index 3
+Output: 3 4 5 1 2
