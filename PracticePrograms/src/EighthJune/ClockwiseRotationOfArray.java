@@ -2,7 +2,7 @@ package EighthJune;
 
 import java.util.Arrays;
 
-public class CircularMotionOfArray {
+public class ClockwiseRotationOfArray {
 
     public static void leftRotate(int arrayToBeRotated[], int numberOfPositionsToRotate, int SizeOfTheArray) {
         for (int index = 0; index < numberOfPositionsToRotate; index++)
